@@ -1,0 +1,5 @@
+{
+  "version": "2.3.0",
+  "notes": "Process-aware AI anomaly filter, Auto-Fix inspector, and OTA updater.",
+  "installer_url": "https://github.com/thatkrazy006guy/pureprotect-releases/releases/download/v2.3.0/PureProtect_Setup.exe"
+}
